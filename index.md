@@ -17,10 +17,10 @@
 
 ## Intelligent Shopping Cart – Data-Driven Purchase Insights
 
-**Status:** Feasibility Study  
-**Concept:** Analyze purchase history from the SPAR app to identify buying patterns and build a smart shopping assistant. The model will incorporate additional data sources, such as fitness tracker insights, to enhance prediction accuracy.  
+**Status:** create dataset to finetune model for feature selection 
+**Concept:** Analyze purchase history (extract data from invoices) from the SPAR app to identify buying patterns and build a smart shopping assistant. The model will incorporate additional data sources, such as fitness tracker insights, to enhance prediction accuracy.  
 
-<img src="images/Spar-logo.svg.png?raw=true" />
+<!-- <img src="images/Spar-logo.svg.png?raw=true" /> -->
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
